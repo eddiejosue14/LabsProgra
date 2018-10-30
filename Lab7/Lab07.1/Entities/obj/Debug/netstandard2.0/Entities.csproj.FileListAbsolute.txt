@@ -1,0 +1,9 @@
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab07.1\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab07.1\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab07.1\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab07.1\Entities\obj\Debug\netstandard2.0\Entities.csprojResolveAssemblyReference.cache
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab07.1\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab07.1\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab07.1\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab07.1\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\ulacit\Documents\Visual Studio 2017\Projects\Lab07.1\Entities\obj\Debug\netstandard2.0\Entities.pdb
